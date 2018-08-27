@@ -1,0 +1,8 @@
+[package]
+name = "dtrace"
+version = "0.0.0"
+authors = ["Fabian Freyer"]
+
+[dependencies]
+failure = "0.1"
+libc = "0.2"
